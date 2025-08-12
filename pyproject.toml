@@ -1,0 +1,11 @@
+[project]
+name = "flask-inventory"
+version = "0.1.0"
+description = "Flask inventory app for testing purpose"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask",
+    "flask-sqlalchemy",
+]
+]
